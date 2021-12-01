@@ -83,7 +83,7 @@ int main(void)
    std::cout << "SE3313 Chat Room Client" << std::endl;
 
    // Create our socket
-   Socket socket("127.0.0.1", 3000);
+   Socket socket("34.220.178.108", 3000);
 
    // Initially we need a connection
    while (true)
